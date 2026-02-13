@@ -14,6 +14,10 @@ I'm a **2nd-year AI-DS Engineering student** with a passion for building robust,
 | **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> |
 | **Databases/Cloud** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> |
 | **Web/Frameworks** | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/SwiftUI-4BC51D?style=for-the-badge&logo=swift&logoColor=white" /> |
+Category,Skills & Tools
+Languages,"Python, C++, Swift, Java, C +1"
+Databases,"MySQL, MongoDB, JDBC, DBMS +1"
+Web/Frameworks,"HTML & CSS, React, SwiftUI, Figma +2"
 ## 📈 GitHub Activity and Insights
 
 <p align="center">
