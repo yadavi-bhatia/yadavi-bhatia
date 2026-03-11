@@ -63,8 +63,6 @@ CPU + GPU training pipeline built using **PyTorch** to optimize compute efficien
 🔹 **Waity – Queue Tracking App**  
 Crowdsourced queue monitoring system designed with **SwiftUI**, backed by APIs and scalable architecture.
 
-🔹 **CAPTCHA Solver using Deep Learning**  
-Machine learning model designed to recognize distorted CAPTCHA images using **CNN-based computer vision techniques**.
 
 ---
 
