@@ -18,9 +18,9 @@ I'm a **2nd-year AI-DS Engineering student** with a passion for building robust,
 ## 📈 GitHub Activity and Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[yadavi-bhatia]&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yadavi-bhatia&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="Your GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[yadavi-bhatia]&layout=compact&theme=algolia&hide_border=true&langs_count=5" alt="Your Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavi-bhatia&layout=compact&theme=algolia&hide_border=true&langs_count=5" alt="Your Top Languages" />
 </p>
 ## 🌟 Flagship Project Showcase: End-to-End Development
 
